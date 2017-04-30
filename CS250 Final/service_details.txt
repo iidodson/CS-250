@@ -1,0 +1,26 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red27\green29\blue31;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid2}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}}
+\margl1440\margr1440\vieww12820\viewh8400\viewkind0
+\deftab791
+\pard\tx791\pardeftab791\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \CocoaLigature0 Indya Dodson\
+Service Details\
+4/30/17\
+\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl360\partightenfactor0
+\ls1\ilvl0\cf0 \CocoaLigature1 {\listtext	1.	}\expnd0\expndtw0\kerning0
+What your target operating system was (used to compile, etc.).\
+\pard\tx720\pardeftab720\sl360\partightenfactor0
+\cf0 	\
+	The target operating system was Mac OS X.\
+\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl360\partightenfactor0
+\ls2\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}\expnd0\expndtw0\kerning0
+Details on how to add your server program to the 'daemon/service' subsystem given the target OS a. Don't forget to tell me where to place your compiled program!\
+	\
+		For Mac OS X, launchd is used to run a Daemons. I placed my compiled program in System/Library.}
